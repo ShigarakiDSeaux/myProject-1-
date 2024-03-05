@@ -1,0 +1,7 @@
+Mia,1998,1234,true
+Corey,2001,2468,false
+Natalie,2000,1587,true
+Rashard,1999,1060,true
+Dylan,2002,4556,false
+Tasha,1997,9513,false
+Kobe,1978,2408,false
